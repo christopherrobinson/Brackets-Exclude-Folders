@@ -1,4 +1,4 @@
-brackets-exclude-folders
+exclude-folders
 ========================
 
 Brackets extension for excluding folders from the file tree, find in files, and quick open.
