@@ -1,0 +1,11 @@
+{
+    "name": "christopherrobinson.brackets-exclude-folders",
+    "title": "Brackets - Exclude Folders",
+    "description": "Excludes folders from Brackets.",
+    "version": "0.1.0",
+    "author": "Christopher Robinson <hello@christopherrobinson.uk> (https://github.com/christopherrobinson)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.34.0"
+    }
+}
